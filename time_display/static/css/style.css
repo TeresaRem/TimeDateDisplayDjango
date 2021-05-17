@@ -1,0 +1,19 @@
+h1 {
+    background-color: rgb(228, 199, 187);
+    margin: auto;
+    width: 20%;
+    border: 3px solid #ad7386;
+    padding: 10px;
+    color:rgb(233, 80, 164)
+    
+}
+.container {
+    
+    text-align: center;
+    width: 100%;
+
+}
+.dateTime_project {
+    margin-top: 10px;
+    text-align: center;
+}
